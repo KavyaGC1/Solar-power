@@ -35,11 +35,17 @@ MIND MAP :-
 ![WhatsApp Image 2023-11-17 at 11 19 58_d0ef5a5e](https://github.com/KavyaGC1/Solar-power/assets/149661780/c895346b-fab0-43f5-bca1-2a5760c12453)
 
 
-
-
-
-
 FLOW CHART:-
 
 
 ![WhatsApp Image 2023-11-17 at 11 00 44_de08fcf4](https://github.com/KavyaGC1/Solar-power/assets/149661780/20ced412-dfeb-40ea-b96f-570c4197233d)
+
+CIRCUIT BLOCK DIAGRAM:-
+
+![SOLAR CIRCUIT](https://github.com/KavyaGC1/Solar-power/assets/149661780/685a96c7-acd5-44d6-a85f-285948ae3659)
+
+ALGORITHM:-
+
+![ALGO SOLAR](https://github.com/KavyaGC1/Solar-power/assets/149661780/c3aed5fd-3714-4734-a8bc-828032ca718a)
+
+
